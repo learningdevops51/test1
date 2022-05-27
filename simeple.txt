@@ -1,2 +1,3 @@
 this is file for clone
 Post add ssh key
+change code from github
